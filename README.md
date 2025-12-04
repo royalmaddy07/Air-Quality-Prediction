@@ -1,6 +1,6 @@
 ## AQI Prediction Using Machine Learning
 
-This project is an extension and practical implementation of an existing research study focused on Air Quality Index (AQI) prediction in Indian metropolitan cities. Building upon the methodologies and findings of the study, this project reproduces the research experiments for predicting the Air Quality Index (AQI) for Delhi using historical pollutant data and regression models. Includes preprocessing, feature engineering, model comparison, and performance evaluation.
+This project is an extension and practical implementation of an existing research study focused on Air Quality Index (AQI) prediction in an Indian city. Building upon the methodologies and findings of the study, this project reproduces the research experiments for predicting the Air Quality Index (AQI) for Delhi using historical pollutant data and regression models. Includes preprocessing, feature engineering, model comparison, and performance evaluation.
 
 ## 📌 Dataset
 
